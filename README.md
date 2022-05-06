@@ -1,3 +1,3 @@
 # DP6-Case
 
-teste de fluxo do issues
+TESTANDO O FECHAMENTO DA ISSUE
